@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 672
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6a8dae5c925e4f80944251c2aaf34
+      internalID: -952159037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 679
+        width: 140
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5391f8eecf66cc546800348d485b7ce9
+      internalID: -1699648601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 672
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d9657cb4d986b43b9727f41913b1bf
+      internalID: 1320071110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 448
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ecbd87640d7d9499aaf20fbe766579
+      internalID: 1316655119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 455
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770773f040bf1b44abe01e6d2ff5649f
+      internalID: -1793224105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 448
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c00ab5016bf44f83919b5b7399af4
+      internalID: -2067969728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48298d45ae819c45b0c1ed0e4c41f65
+      internalID: -117231368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 231
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511a9a67a71b1f4a99b2b5326643673
+      internalID: -608354400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 224
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e79cc71637b6e41ac56554aa680d12
+      internalID: -1423163643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10e0a7dbb296f408fd124b4a9bebf9
+      internalID: 1239713193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 7
+        width: 140
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a0b1119fe4ce741ae2a32090bfa823
+      internalID: 30546885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-SWEN_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc52241ef3ffd94384de6cb865fe411
+      internalID: -1952279981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +384,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeleton-red_eyes-SWEN_0: -952159037
+      skeleton-red_eyes-SWEN_1: -1699648601
+      skeleton-red_eyes-SWEN_10: 30546885
+      skeleton-red_eyes-SWEN_11: -1952279981
+      skeleton-red_eyes-SWEN_2: 1320071110
+      skeleton-red_eyes-SWEN_3: 1316655119
+      skeleton-red_eyes-SWEN_4: -1793224105
+      skeleton-red_eyes-SWEN_5: -2067969728
+      skeleton-red_eyes-SWEN_6: -117231368
+      skeleton-red_eyes-SWEN_7: -608354400
+      skeleton-red_eyes-SWEN_8: -1423163643
+      skeleton-red_eyes-SWEN_9: 1239713193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
