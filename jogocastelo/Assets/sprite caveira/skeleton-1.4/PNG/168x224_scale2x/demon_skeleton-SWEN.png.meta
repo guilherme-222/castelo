@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 672
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f30782e6a952443bd54755fe708f55
+      internalID: 1612852823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 679
+        width: 140
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da0f30ea82555344b6b0f08d76be33d
+      internalID: -1894950674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 672
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1feaffde0eb57429ba8af9a138efb0
+      internalID: -672969877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 448
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719fb582aa64634eabed9075428c62d
+      internalID: -1525783588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 455
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d3e6ed91e1d184ea8a8e8cce8ddd03
+      internalID: 1769402524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_5
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 448
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8579539b161e6f42b5ab1c2b1a47597
+      internalID: 1069067408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f015749add6a2f4eaae3e94b079e32c
+      internalID: 1985465443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 231
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3c8d1b5f142de4abff6cd3e4522e06
+      internalID: -2108131996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 224
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6a48eb0b8abe4c97a7f63e68114ed
+      internalID: -2072564387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581cf368fb295114888d7772b8ea550f
+      internalID: 1431189021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 7
+        width: 140
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6d4e5e166c9a4aa40e65533320d6a
+      internalID: -303602568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_skeleton-SWEN_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a33da6fca8cb9489688982a3ed9cdf
+      internalID: -1189649916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +384,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_skeleton-SWEN_0: 1612852823
+      demon_skeleton-SWEN_1: -1894950674
+      demon_skeleton-SWEN_10: -303602568
+      demon_skeleton-SWEN_11: -1189649916
+      demon_skeleton-SWEN_2: -672969877
+      demon_skeleton-SWEN_3: -1525783588
+      demon_skeleton-SWEN_4: 1769402524
+      demon_skeleton-SWEN_5: 1069067408
+      demon_skeleton-SWEN_6: 1985465443
+      demon_skeleton-SWEN_7: -2108131996
+      demon_skeleton-SWEN_8: -2072564387
+      demon_skeleton-SWEN_9: 1431189021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
