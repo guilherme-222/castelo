@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 672
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2464118419e914409105774da16cd0c
+      internalID: -506401541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 679
+        width: 140
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432de6b656219bf4fb6f0217de8b1d04
+      internalID: -2051899225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 672
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c195ade46566e4ba0e83b81551f172
+      internalID: -1022212728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 448
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404c98f0075af041a4abe98a3c896d4
+      internalID: -1758347414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_4
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 455
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2166134ec7edfbc4dacf544ca14e3f34
+      internalID: -1227418099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 448
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b977acd8023f65439e7b27aecfd8de0
+      internalID: -2138728012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 224
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18d9fecd1d74f4c8a1ca1991af4df3
+      internalID: 58308984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 231
+        width: 140
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8585bea5c3e0a40b9ba47a84266db6
+      internalID: 938076066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 224
+        width: 98
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372c454a97db5794a92cf8c0d8c88fe2
+      internalID: 921470673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f44aaf6ab13ce41afc55930a89d097
+      internalID: 971405795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 7
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5142141ec3fe7944ba486826adf967ae
+      internalID: 165551776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton-red_eyes-NESW_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 112
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbfff406b62e9540a8820c155321598
+      internalID: 363717220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +384,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeleton-red_eyes-NESW_0: -506401541
+      skeleton-red_eyes-NESW_1: -2051899225
+      skeleton-red_eyes-NESW_10: 165551776
+      skeleton-red_eyes-NESW_11: 363717220
+      skeleton-red_eyes-NESW_2: -1022212728
+      skeleton-red_eyes-NESW_3: -1758347414
+      skeleton-red_eyes-NESW_4: -1227418099
+      skeleton-red_eyes-NESW_5: -2138728012
+      skeleton-red_eyes-NESW_6: 58308984
+      skeleton-red_eyes-NESW_7: 938076066
+      skeleton-red_eyes-NESW_8: 921470673
+      skeleton-red_eyes-NESW_9: 971405795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
